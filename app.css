@@ -1,0 +1,12 @@
+.jumbotron {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.cardText {
+    font-weight: bold;
+    text-align: center;
+}
